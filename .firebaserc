@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "caselite"
+  },
+  "targets": {
+    "caselite-b0580": {
+      "hosting": {
+        "caselite": [
+          "caselite"
+        ]
+      }
+    }
+  }
+}
